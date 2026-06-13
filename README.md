@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://embodiedcity.github.io/Worldscape-MoE/"><img src="https://img.shields.io/badge/Project_Page-6f2dbd?style=flat-square&logo=googlechrome&logoColor=white" alt="Project Page"></a>
   <a href="https://github.com/EmbodiedCity/Worldscape-MoE.code"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-  <a href="video/demo.mp4"><img src="https://img.shields.io/badge/Demo_Video-ff0033?style=flat-square&logo=youtube&logoColor=white" alt="Demo Video"></a>
+  <a href="https://www.youtube.com/watch?v=8H3hJ3XDJFk"><img src="https://img.shields.io/badge/Demo_Video-ff0033?style=flat-square&logo=youtube&logoColor=white" alt="Demo Video"></a>
 </p>
 
 <p align="center">
@@ -27,7 +27,13 @@ By combining shared experts for cross-control world knowledge with modality-spec
 ## Demo
 
 <p align="center">
-  <video src="video/demo.mp4" controls muted playsinline width="100%"></video>
+  <a href="https://www.youtube.com/watch?v=8H3hJ3XDJFk">
+    <img src="assets/demo.gif" alt="Worldscape-MoE demo preview" width="90%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8H3hJ3XDJFk"><strong>Watch the full demo on YouTube</strong></a>
 </p>
 
 ## Citation
