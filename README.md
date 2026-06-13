@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://embodiedcity.github.io/Worldscape-MoE/"><img src="https://img.shields.io/badge/Project_Page-6f2dbd?style=flat-square&logo=googlechrome&logoColor=white" alt="Project Page"></a>
   <a href="https://www.youtube.com/watch?v=8H3hJ3XDJFk"><img src="https://img.shields.io/badge/Demo_Video-ff0033?style=flat-square&logo=youtube&logoColor=white" alt="Demo Video"></a>
+  <a href="https://huggingface.co/EmbodiedCity/Worldscape-MoE"><img src="https://img.shields.io/badge/Model-HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black" alt="Model"></a>
 </p>
 
 <p align="center">
